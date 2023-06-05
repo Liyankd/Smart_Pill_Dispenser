@@ -3,4 +3,4 @@ Our project BMO:Smart Pill Dispensing machine for the spring 2023 Embedded class
 - Codes for our project.
 - Report.
 - Poster.
-- Youtube video.
+- Youtube video Link: https://youtu.be/OZ2XC_5i8hE 
